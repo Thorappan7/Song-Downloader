@@ -11,4 +11,4 @@ dnspython
 pymongo
 lyricsgenius
 wget
-yt-dlp
+yt_dlp
