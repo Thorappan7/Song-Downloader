@@ -10,7 +10,7 @@
         "nazriya"
     ],
     "website": "https://github.com/MR-JINN-OF-TG",
-    "repository": "https://github.com/MR-JINN-OF-TG/Song-Downloader",
+    "repository": "https://github.com/Thorappan7/Song-Downloader",
     "success_url": "https://t.me/NAZRIYASUPPORT",
     "env": {
         "BOT_TOKEN": {
