@@ -5,4 +5,4 @@ class Config(object):
     OWNER_ID = set(int(x) for x in os.environ.get("OWNER_ID", "5297426893").split())
     SUPPORT = os.environ.get("SUPPORT")
     BOT_NAME = os.environ.get("bat","Song Download")
-    BOT_USERNAME = os.environ.get("bn",songyt_dl_bot)
+    BOT_USERNAME = os.environ.get("bn","songyt_dl_bot")
